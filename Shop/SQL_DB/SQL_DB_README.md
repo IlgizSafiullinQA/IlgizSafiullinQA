@@ -9,8 +9,8 @@ Written in MySQL and executed via MySQL Workbench.
 
 | File | Description |
 |---|---|
-| [Работа_с_SELECT_в_MySQL.xlsx](./Работа_с_SELECT_в_MySQL.xlsx) | SELECT queries — filtering, sorting, conditions |
-| [Ziktlt_JOIN_в_MySQL.xlsx](./Ziktlt_JOIN_в_MySQL.xlsx) | JOIN queries — combining tables, data validation |
+| [SELECT_queries_MySQL.xlsx](./SELECT_queries_MySQL.xlsx) | SELECT queries — filtering, sorting, conditions |
+| [JOIN_queries_MySQL.xlsx](./JOIN_queries_MySQL.xlsx) | JOIN queries — combining tables, data validation |
 
 ---
 

@@ -33,4 +33,4 @@ Each bug report includes:
 - Expected result
 - Actual result
 - Environment details
-- Priority and severity
+- Priority
